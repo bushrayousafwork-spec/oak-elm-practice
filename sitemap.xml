@@ -9,13 +9,14 @@
   <url>
     <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/about-us/</loc>
   </url>
+  <url>
   <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/bedroom-furniture/</loc>
 </url>
   <url>
     <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/desk-tables/</loc>
     </url>
   <url>
-    <loc>https://bushrayousafwork-spec.guthub.io/oak-elm-practice/bookcase-storage/</loc>
+    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/bookcase-storage/</loc>
   </url>
   <url>
     <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/coffee-tables/</loc>
@@ -31,5 +32,6 @@
   </url>
   <url>
     <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/wall-shelves/</loc>
-  </urlset>
+  </url>
+</urlset>
     
