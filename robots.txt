@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bushrayousafwork-spec.github.io/oak-elm-practice/sitemap.xml
