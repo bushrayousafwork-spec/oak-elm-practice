@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/about-us/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/bedroom-furniture/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/desk-tables/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/bookcase-storage/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/coffee-tables/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/lamp-tables/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/chairs/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/sofas/</loc>
-  </url>
-
-  <url>
-    <loc>https://bushrayousafwork-spec.github.io/oak-elm-practice/wall-shelves/</loc>
-  </url>
-
+  <url><loc>https://oak-elm-practice.netlify.app/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/about-us/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/bedroom-furniture/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/desk-tables/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/bookcase-storage/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/coffee-tables/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/lamp-tables/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/chairs/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/sofas/</loc></url>
+  <url><loc>https://oak-elm-practice.netlify.app/wall-shelves/</loc></url>
 </urlset>
